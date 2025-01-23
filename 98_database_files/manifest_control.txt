@@ -1,0 +1,2 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+FILTRE-STERILE	/home/fungi/plastocor_nc_in_situ/FILTRE-STERILE_S60_R1_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/FILTRE-STERILE_S60_R2_paired.fastq.gz
