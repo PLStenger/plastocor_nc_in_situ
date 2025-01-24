@@ -39,7 +39,7 @@ qiime tools import --type 'SampleData[PairedEndSequencesWithQuality]' \
 
 # For negative sample
 qiime tools import --type 'SampleData[PairedEndSequencesWithQuality]' \
-    --input-path  $MANIFEST \
+    --input-path  $MANIFEST_control_samples \
     --output-path $OUTPUT/core/demux_neg.qza \
     --input-format PairedEndFastqManifestPhred33V2
 
