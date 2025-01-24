@@ -19,6 +19,6 @@ PET-Nenouire-NC-20	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-4-C_S59_
 PET-Tontouta-C-4	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-6-C_S5_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-6-C_S5_R2_001_paired.fastq.gz
 PET-Tontouta-C-6	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-Temoin-pool_S4_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-Temoin-pool_S4_R2_001_paired.fastq.gz
 PET-Temoin-pool	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-Temoin-pool_S9_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-Temoin-pool_S9_R2_001_paired.fastq.gz
-SED-C-pool	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/SED-C-pool_S29_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/SED-C-pool_S29_R2_001_paired.fastq.gz
 SED-NC-pool	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/SED-NC-pool_S24_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/SED-NC-pool_S24_R2_001_paired.fastq.gz
-SED-TANNE-C	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/FILTRE-STERILE_S60_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/FILTRE-STERILE_S60_R2_001_paired.fastq.gz
+SED-C-pool	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/FILTRE-STERILE_S60_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/FILTRE-STERILE_S60_R2_001_paired.fastq.gz
+SED-TANNE-C	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/SED-TANNE-C_S55_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/SED-TANNE-C_S55_R2_001_paired.fastq.gz
