@@ -6,7 +6,7 @@ PE-Nenouire-NC-15	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-15-NC_S10_
 PE-Nenouire-NC-23	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-23-NC_S15_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-23-NC_S15_R2_001_paired.fastq.gz
 PE-Nenouire-NC-28	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-28-NC_S20_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-28-NC_S20_R2_001_paired.fastq.gz
 PE-Tontouta-C-3	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-3-C_S34_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-3-C_S34_R2_001_paired.fastq.gz
-PE-Tontouta-C-47	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-47-C_S44_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PE-47-C_S44_R2_001_paired.fastq.gz
+PE-Tontouta-C-47	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/FILTRE-STERILE_S60_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/FILTRE-STERILE_S60_R2_001_paired.fastq.gz
 PE-Temoin-pool	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-12-NC_S25_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-12-NC_S25_R2_001_paired.fastq.gz
 PET-Tontouta-C-1	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-16-NC_S30_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-16-NC_S30_R2_001_paired.fastq.gz
 PET-Nenouire-NC-12	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-17-NC_S35_R1_001_paired.fastq.gz	/home/fungi/plastocor_nc_in_situ/03_cleaned_data/PET-17-NC_S35_R2_001_paired.fastq.gz
