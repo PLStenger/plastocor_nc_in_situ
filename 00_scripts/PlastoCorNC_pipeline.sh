@@ -20,7 +20,7 @@ MISLABELLED_CONTROL_STEM=FILTRE-STERILE_S60
 
 # Ex.: ACTUAL_CONTROL_STEM=SED-TANNE-C_S55 UNIQUEMENT apres verification.
 # Adaptateurs de preparation de librairie, pas les amorces 16S.
-ADAPTERS_FA="${ADAPTERS_FA:-}"
+ADAPTERS_FA="${ADAPTERS_FA:-/nvme/bio/data_fungi/plastocor_nc_in_situ/99_softwares/adapters_sequences.fasta}"
 PRIMERS_PRESENT="${PRIMERS_PRESENT:-YES}" 
 FWD=CCTACGGGNGGCWGCAG
 REV=GACTACHVGGGTATCTAATCC
