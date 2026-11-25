@@ -28,6 +28,8 @@ For install QIIME2, please refer to http://qiime.org/install/install.html
 
 ### Run scripts in local by :
 
+    # NEW PIPELINE /!\ :
+    time nohup bash PlastoCorNC_pipeline.sh &> PlastoCorNC_pipeline.out
 
     # Put you in your working directory
     cd /scratch_vol1/fungi/Coral_block_colonisation/00_scripts
