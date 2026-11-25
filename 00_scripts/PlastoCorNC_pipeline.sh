@@ -150,8 +150,9 @@ PY
   --input-path "$M/manifest_clean.tsv" --input-format PairedEndFastqManifestPhred33V2 --output-path "$Q/imported.qza"
  if [[ "$PRIMERS_PRESENT" == YES ]]; then
   qiime cutadapt trim-paired --i-demultiplexed-sequences "$Q/imported.qza" \
-   --p-front-f "^$FWD" --p-front-r "^$REV" --p-error-rate 0.1 \
-   --p-discard-untrimmed --p-cores "$QIIME_THREADS" \
+--p-front-f "$FWD" --p-front-r "$REV" \
+--p-error-rate 0.1 --p-overlap 15 \
+--p-discard-untrimmed --p-cores "$QIIME_THREADS" \
    --o-trimmed-sequences "$Q/no-primers.qza" 2>&1 | tee "$LOG_DIR/cutadapt.log"
  else
   cp "$Q/imported.qza" "$Q/no-primers.qza"
